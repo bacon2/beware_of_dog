@@ -1,0 +1,1 @@
+tp @e[type=#beware_of_dog:griefy_mobs, distance=..40] ~ -1000 ~

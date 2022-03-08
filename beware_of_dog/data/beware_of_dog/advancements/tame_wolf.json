@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "wolf": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wolf"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function":"beware_of_dog:on_tame"
+  }
+}
